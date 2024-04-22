@@ -1,0 +1,33 @@
+[20:46:46] uGlobal.pas: Line: 275, 
+[20:46:46] uGlobal.pas: Line: 275, 
+[20:46:46] uGlobal.pas: Line: 275, Program : Start
+[20:46:46] uGlobal.pas: Line: 275, ConnectDB : Start
+[20:46:46] uGlobal.pas: Line: 275, Nexpa ConnectDB : 넥스파 DB연동
+[20:46:46] uGlobal.pas: Line: 275, ConnectDB : End
+[20:46:46] uGlobal.pas: Line: 275, *** Load All UnitInfo Setting 
+[20:46:46] uGlobal.pas: Line: 275, *** Set In/Out Lpr List : 5
+[20:46:46] uGlobal.pas: Line: 275, *** LPR Socket Connect at each frame 
+[20:46:46] uGlobal.pas: Line: 275, *** Set Dsp UnitInfo at the LprInfo 
+[20:46:46] uGlobal.pas: Line: 275, 1방문객입차 Socket connected
+[20:46:46] uGlobal.pas: Line: 275, 1입주민입차 Socket connected
+[20:46:46] uGlobal.pas: Line: 275, 2입주민입차 Socket connected
+[20:46:46] uGlobal.pas: Line: 275, 1출차 Socket connected
+[20:46:46] uGlobal.pas: Line: 275, 2출차 Socket connected
+[20:47:11] uGlobal.pas: Line: 275, 1출차 popOpen Click
+[20:48:16] uGlobal.pas: Line: 275, 2출차 Socket disconnected
+[20:48:16] uGlobal.pas: Line: 275, 1출차 Socket disconnected
+[20:48:21] uGlobal.pas: Line: 275, 
+[20:48:21] uGlobal.pas: Line: 275, 
+[20:48:21] uGlobal.pas: Line: 275, Program : Start
+[20:48:21] uGlobal.pas: Line: 275, ConnectDB : Start
+[20:48:21] uGlobal.pas: Line: 275, Nexpa ConnectDB : 넥스파 DB연동
+[20:48:21] uGlobal.pas: Line: 275, ConnectDB : End
+[20:48:21] uGlobal.pas: Line: 275, *** Load All UnitInfo Setting 
+[20:48:22] uGlobal.pas: Line: 275, *** Set In/Out Lpr List : 5
+[20:48:22] uGlobal.pas: Line: 275, *** LPR Socket Connect at each frame 
+[20:48:22] uGlobal.pas: Line: 275, *** Set Dsp UnitInfo at the LprInfo 
+[20:48:22] uGlobal.pas: Line: 275, 1방문객입차 Socket connected
+[20:48:22] uGlobal.pas: Line: 275, 1출차 Socket connected
+[20:48:22] uGlobal.pas: Line: 275, 1입주민입차 Socket connected
+[20:48:22] uGlobal.pas: Line: 275, 2입주민입차 Socket connected
+[20:48:22] uGlobal.pas: Line: 275, 2출차 Socket connected

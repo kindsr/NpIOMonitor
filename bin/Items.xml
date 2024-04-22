@@ -1,0 +1,4 @@
+<tree2xml name="tvItems">
+  <item Caption="test" isVisible="1" isGroup="0" Command="D:\100_Development\SourceForD11\043-AK플라자\VIP차량모니터\발렛라운지 프로그램(발렛PC1600900)\실행화일\VIP_Main.exe" isRunAt="0" RunAtDateTime="2024-02-14 15:30:00" isRun_isWhenOnlyFolderChange="0" NextRunAtDateTime="1899-12-30" isRepeatRun="0" RepeatRunAtTime="15:30:00" isRun_FolderChanged="0"/>
+  <item Caption="test1" isVisible="1" isGroup="0" Command="D:\100_Development\SourceForD11\043-AK플라자\AK VIP 연동데몬\Win32\Debug\AKVIPDemon.exe" isRunAt="0" RunAtDateTime="2024-02-14 15:30:00" isRun_isWhenOnlyFolderChange="0" NextRunAtDateTime="1899-12-30" isRepeatRun="0" RepeatRunAtTime="15:30:00" isRun_FolderChanged="0"/>
+</tree2xml>

@@ -1,0 +1,319 @@
+[09:33:58] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422093358_33가3334.jpg
+[09:33:58] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:33:58] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422093358_33가3334.jpg
+[09:33:58] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:33:58] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422093358_33가3334.jpg
+[09:33:58] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:33:58] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422093358_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:33:58] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:33:58] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422093358_33가3334.jpg
+[09:35:08] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422093508_33가3334.jpg
+[09:35:08] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:35:08] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422093508_33가3334.jpg
+[09:35:08] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:35:08] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422093508_33가3334.jpg
+[09:35:08] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:35:08] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422093508_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:35:08] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:35:08] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422093508_33가3334.jpg
+[09:35:53] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422093553_33가3334.jpg
+[09:35:53] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:35:53] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422093553_33가3334.jpg
+[09:35:53] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:35:53] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422093553_33가3334.jpg
+[09:35:53] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:35:53] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422093553_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:35:53] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:35:53] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422093553_33가3334.jpg
+[09:37:03] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422093703_33가3334.jpg
+[09:37:03] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:37:03] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422093703_33가3334.jpg
+[09:37:03] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:37:03] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422093703_33가3334.jpg
+[09:37:03] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:37:03] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422093703_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:37:03] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:37:03] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422093703_33가3334.jpg
+[09:39:10] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422093910_33가3334.jpg
+[09:39:10] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:39:10] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422093910_33가3334.jpg
+[09:39:10] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:39:10] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422093910_33가3334.jpg
+[09:39:10] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:39:10] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422093910_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:39:10] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:39:10] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422093910_33가3334.jpg
+[09:40:47] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422094047_33가3334.jpg
+[09:40:47] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:40:47] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422094047_33가3334.jpg
+[09:40:47] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:40:47] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422094047_33가3334.jpg
+[09:40:47] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:40:47] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422094047_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:40:47] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:40:47] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422094047_33가3334.jpg
+[09:43:20] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422094320_33가3334.jpg
+[09:43:20] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:43:20] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422094320_33가3334.jpg
+[09:43:20] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:43:20] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422094320_33가3334.jpg
+[09:43:20] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:43:20] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422094320_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:43:20] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:43:20] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422094320_33가3334.jpg
+[09:46:57] uGlobal.pas: Line: 275, 1출차 Recv: CH1#33가3334#N#\2024\04\22\CH1_20240422094657_33가3334.jpg
+[09:46:57] uGlobal.pas: Line: 275, -----(+) 1출차 PACKET처리--------
+[09:46:57] uGlobal.pas: Line: 275, OutQueue.Enqueue : CH1#33가3334#N#\2024\04\22\CH1_20240422094657_33가3334.jpg
+[09:46:57] uGlobal.pas: Line: 275, -----(-) 1출차 PACKET처리--------
+[09:46:57] uGlobal.pas: Line: 275, OutQueue.Dequeue : CH1#33가3334#N#\2024\04\22\CH1_20240422094657_33가3334.jpg
+[09:46:57] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[09:46:57] uGlobal.pas: Line: 275, sCarNo1(33가3334),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422094657_33가3334.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[09:46:57] uGlobal.pas: Line: 275, 10.22.32.100 : 33가3334/ - 
+[09:46:57] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422094657_33가3334.jpg
+[10:05:25] uGlobal.pas: Line: 275, 2출차 Socket disconnected
+[10:05:25] uGlobal.pas: Line: 275, 1출차 Socket disconnected
+[11:03:49] uGlobal.pas: Line: 275, 
+[11:03:49] uGlobal.pas: Line: 275, 
+[11:03:49] uGlobal.pas: Line: 275, Program : Start
+[11:03:49] uGlobal.pas: Line: 275, ConnectDB : Start
+[11:04:10] uGlobal.pas: Line: 275, Nexpa DB Connect Error:[DBNETLIB][ConnectionOpen (Connect()).]SQL Server가 없거나 액세스할 수 없습니다
+[11:04:10] uGlobal.pas: Line: 275, *** Load All UnitInfo Setting 
+[11:04:10] uGlobal.pas: Line: 275, [DBNETLIB][ConnectionOpen (Connect()).]SQL Server가 없거나 액세스할 수 없습니다
+[11:04:10] uGlobal.pas: Line: 275, *** Set In/Out Lpr List : 0
+[11:04:10] uGlobal.pas: Line: 275, *** LPR Socket Connect at each frame 
+[11:04:10] uGlobal.pas: Line: 275, *** Set Dsp UnitInfo at the LprInfo 
+[11:04:17] uGlobal.pas: Line: 275, 
+[11:04:17] uGlobal.pas: Line: 275, 
+[11:04:17] uGlobal.pas: Line: 275, Program : Start
+[11:04:17] uGlobal.pas: Line: 275, ConnectDB : Start
+[11:04:17] uGlobal.pas: Line: 275, Nexpa ConnectDB : 넥스파 DB연동
+[11:04:17] uGlobal.pas: Line: 275, ConnectDB : End
+[11:04:17] uGlobal.pas: Line: 275, *** Load All UnitInfo Setting 
+[11:04:17] uGlobal.pas: Line: 275, *** Set In/Out Lpr List : 5
+[11:04:18] uGlobal.pas: Line: 275, *** LPR Socket Connect at each frame 
+[11:04:18] uGlobal.pas: Line: 275, *** Set Dsp UnitInfo at the LprInfo 
+[11:04:18] uGlobal.pas: Line: 275, 1방문객입차 Socket connected
+[11:04:18] uGlobal.pas: Line: 275, 1출차 Socket connected
+[11:04:18] uGlobal.pas: Line: 275, 2입주민입차 Socket connected
+[11:04:18] uGlobal.pas: Line: 275, 1입주민입차 Socket connected
+[11:04:18] uGlobal.pas: Line: 275, 2출차 Socket connected
+[11:04:48] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#47노1683#N#\2024\04\22\CH1_20240422110446_47노1683.jpg
+[11:04:48] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:04:48] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#47노1683#N#\2024\04\22\CH1_20240422110446_47노1683.jpg
+[11:04:48] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:04:48] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#47노1683#N#\2024\04\22\CH1_20240422110446_47노1683.jpg
+[11:04:48] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:04:48] uGlobal.pas: Line: 275, sCarNo1(47노1683),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110446_47노1683.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:04:48] uGlobal.pas: Line: 275, 10.22.32.101 : 47노1683/ - 
+[11:04:48] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110446_47노1683.jpg
+[11:04:50] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테4263#N#\2024\04\22\CH1_20240422110448_33테4263.jpg
+[11:04:50] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:04:50] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테4263#N#\2024\04\22\CH1_20240422110448_33테4263.jpg
+[11:04:50] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:04:50] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테4263#N#\2024\04\22\CH1_20240422110448_33테4263.jpg
+[11:04:50] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:04:50] uGlobal.pas: Line: 275, sCarNo1(33테4263),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110448_33테4263.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:04:50] uGlobal.pas: Line: 275, 10.22.32.101 : 33테4263/ - 
+[11:04:50] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110448_33테4263.jpg
+[11:04:55] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#02로4511#N#\2024\04\22\CH1_20240422110455_02로4511.jpg
+[11:04:55] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:04:55] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#02로4511#N#\2024\04\22\CH1_20240422110455_02로4511.jpg
+[11:04:55] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:04:55] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#02로4511#N#\2024\04\22\CH1_20240422110455_02로4511.jpg
+[11:04:55] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:04:55] uGlobal.pas: Line: 275, sCarNo1(02로4511),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110455_02로4511.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:04:55] uGlobal.pas: Line: 275, 10.22.32.100 : 02로4511/ - 
+[11:04:55] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110455_02로4511.jpg
+[11:05:15] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#212저6218#N#\2024\04\22\CH1_20240422110513_212저6218.jpg
+[11:05:15] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:05:15] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#212저6218#N#\2024\04\22\CH1_20240422110513_212저6218.jpg
+[11:05:15] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:05:15] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#212저6218#N#\2024\04\22\CH1_20240422110513_212저6218.jpg
+[11:05:15] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:05:15] uGlobal.pas: Line: 275, sCarNo1(212저6218),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110513_212저6218.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:05:15] uGlobal.pas: Line: 275, 10.22.32.101 : 212저6218/ - 
+[11:05:15] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110513_212저6218.jpg
+[11:05:18] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#33마2580#N#\2024\04\22\CH1_20240422110518_33마2580.jpg
+[11:05:18] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:05:18] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33마2580#N#\2024\04\22\CH1_20240422110518_33마2580.jpg
+[11:05:18] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:05:18] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33마2580#N#\2024\04\22\CH1_20240422110518_33마2580.jpg
+[11:05:18] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:05:18] uGlobal.pas: Line: 275, sCarNo1(33마2580),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110518_33마2580.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:05:18] uGlobal.pas: Line: 275, 10.22.32.100 : 33마2580/ - 
+[11:05:18] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110518_33마2580.jpg
+[11:05:21] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테3695#N#\2024\04\22\CH1_20240422110519_33테3695.jpg
+[11:05:21] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:05:21] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테3695#N#\2024\04\22\CH1_20240422110519_33테3695.jpg
+[11:05:21] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:05:21] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테3695#N#\2024\04\22\CH1_20240422110519_33테3695.jpg
+[11:05:21] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:05:21] uGlobal.pas: Line: 275, sCarNo1(33테3695),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110519_33테3695.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:05:21] uGlobal.pas: Line: 275, 10.22.32.101 : 33테3695/ - 
+[11:05:21] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110519_33테3695.jpg
+[11:05:28] uGlobal.pas: Line: 275, 2출차 Socket disconnected
+[11:05:41] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#79다4849#N#\2024\04\22\CH1_20240422110541_79다4849.jpg
+[11:05:41] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:05:41] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#79다4849#N#\2024\04\22\CH1_20240422110541_79다4849.jpg
+[11:05:41] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:05:41] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#79다4849#N#\2024\04\22\CH1_20240422110541_79다4849.jpg
+[11:05:41] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:05:41] uGlobal.pas: Line: 275, sCarNo1(79다4849),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110541_79다4849.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:05:41] uGlobal.pas: Line: 275, 10.22.32.100 : 79다4849/ - 
+[11:05:41] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110541_79다4849.jpg
+[11:05:41] uGlobal.pas: Line: 275, 1출차 Socket disconnected
+[11:05:41] uGlobal.pas: Line: 275, 2입주민입차 Socket disconnected
+[11:05:49] uGlobal.pas: Line: 275, 
+[11:05:49] uGlobal.pas: Line: 275, 
+[11:05:49] uGlobal.pas: Line: 275, Program : Start
+[11:05:49] uGlobal.pas: Line: 275, ConnectDB : Start
+[11:05:49] uGlobal.pas: Line: 275, Nexpa ConnectDB : 넥스파 DB연동
+[11:05:49] uGlobal.pas: Line: 275, ConnectDB : End
+[11:05:49] uGlobal.pas: Line: 275, *** Load All UnitInfo Setting 
+[11:05:49] uGlobal.pas: Line: 275, *** Set In/Out Lpr List : 5
+[11:05:49] uGlobal.pas: Line: 275, *** LPR Socket Connect at each frame 
+[11:05:49] uGlobal.pas: Line: 275, *** Set Dsp UnitInfo at the LprInfo 
+[11:05:50] uGlobal.pas: Line: 275, 1방문객입차 Socket connected
+[11:05:50] uGlobal.pas: Line: 275, 1출차 Socket connected
+[11:05:50] uGlobal.pas: Line: 275, 1입주민입차 Socket connected
+[11:05:50] uGlobal.pas: Line: 275, 2입주민입차 Socket connected
+[11:05:50] uGlobal.pas: Line: 275, 2출차 Socket connected
+[11:05:52] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테4234#N#\2024\04\22\CH1_20240422110550_33테4234.jpg
+[11:05:52] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:05:52] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테4234#N#\2024\04\22\CH1_20240422110550_33테4234.jpg
+[11:05:52] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:05:52] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테4234#N#\2024\04\22\CH1_20240422110550_33테4234.jpg
+[11:05:52] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:05:52] uGlobal.pas: Line: 275, sCarNo1(33테4234),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110550_33테4234.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:05:52] uGlobal.pas: Line: 275, 10.22.32.101 : 33테4234/ - 
+[11:05:52] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110550_33테4234.jpg
+[11:06:04] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#46버4138#N#\2024\04\22\CH1_20240422110604_46버4138.jpg
+[11:06:04] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:06:04] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#46버4138#N#\2024\04\22\CH1_20240422110604_46버4138.jpg
+[11:06:04] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:06:04] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#46버4138#N#\2024\04\22\CH1_20240422110604_46버4138.jpg
+[11:06:04] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:04] uGlobal.pas: Line: 275, sCarNo1(46버4138),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110604_46버4138.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:04] uGlobal.pas: Line: 275, 10.22.32.100 : 46버4138/ - 
+[11:06:04] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110604_46버4138.jpg
+[11:06:09] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#03우7464#N#\2024\04\22\CH1_20240422110607_03우7464.jpg
+[11:06:09] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:06:09] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#03우7464#N#\2024\04\22\CH1_20240422110607_03우7464.jpg
+[11:06:09] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:06:09] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#03우7464#N#\2024\04\22\CH1_20240422110607_03우7464.jpg
+[11:06:09] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:09] uGlobal.pas: Line: 275, sCarNo1(03우7464),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110607_03우7464.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:09] uGlobal.pas: Line: 275, 10.22.32.101 : 03우7464/ - 
+[11:06:09] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110607_03우7464.jpg
+[11:06:11] uGlobal.pas: Line: 275, 1방문객입차 popOpen Click
+[11:06:13] uGlobal.pas: Line: 275, 1입주민입차 popClose Click
+[11:06:23] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테3889#N#\2024\04\22\CH1_20240422110621_33테3889.jpg
+[11:06:23] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:06:23] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테3889#N#\2024\04\22\CH1_20240422110621_33테3889.jpg
+[11:06:23] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:06:23] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테3889#N#\2024\04\22\CH1_20240422110621_33테3889.jpg
+[11:06:23] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:23] uGlobal.pas: Line: 275, sCarNo1(33테3889),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110621_33테3889.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:23] uGlobal.pas: Line: 275, 10.22.32.101 : 33테3889/ - 
+[11:06:23] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110621_33테3889.jpg
+[11:06:27] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#39어5280#N#\2024\04\22\CH1_20240422110627_39어5280.jpg
+[11:06:27] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:06:27] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#39어5280#N#\2024\04\22\CH1_20240422110627_39어5280.jpg
+[11:06:27] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:06:27] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#39어5280#N#\2024\04\22\CH1_20240422110627_39어5280.jpg
+[11:06:27] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:27] uGlobal.pas: Line: 275, sCarNo1(39어5280),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110627_39어5280.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:27] uGlobal.pas: Line: 275, 10.22.32.100 : 39어5280/ - 
+[11:06:27] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110627_39어5280.jpg
+[11:06:36] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#55수9590#N#\2024\04\22\CH1_20240422110634_55수9590.jpg
+[11:06:36] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:06:36] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#55수9590#N#\2024\04\22\CH1_20240422110634_55수9590.jpg
+[11:06:36] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:06:36] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#55수9590#N#\2024\04\22\CH1_20240422110634_55수9590.jpg
+[11:06:36] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:36] uGlobal.pas: Line: 275, sCarNo1(55수9590),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110634_55수9590.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:36] uGlobal.pas: Line: 275, 10.22.32.101 : 55수9590/ - 
+[11:06:36] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110634_55수9590.jpg
+[11:06:50] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#297너5265#N#\2024\04\22\CH1_20240422110650_297너5265.jpg
+[11:06:50] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:06:50] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#297너5265#N#\2024\04\22\CH1_20240422110650_297너5265.jpg
+[11:06:50] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:06:50] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#297너5265#N#\2024\04\22\CH1_20240422110650_297너5265.jpg
+[11:06:50] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:50] uGlobal.pas: Line: 275, sCarNo1(297너5265),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110650_297너5265.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:50] uGlobal.pas: Line: 275, 10.22.32.100 : 297너5265/ - 
+[11:06:50] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110650_297너5265.jpg
+[11:06:54] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테3487#N#\2024\04\22\CH1_20240422110652_33테3487.jpg
+[11:06:54] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:06:54] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테3487#N#\2024\04\22\CH1_20240422110652_33테3487.jpg
+[11:06:54] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:06:54] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테3487#N#\2024\04\22\CH1_20240422110652_33테3487.jpg
+[11:06:54] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:06:54] uGlobal.pas: Line: 275, sCarNo1(33테3487),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110652_33테3487.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:06:54] uGlobal.pas: Line: 275, 10.22.32.101 : 33테3487/ - 
+[11:06:54] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110652_33테3487.jpg
+[11:07:03] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#253머3356#N#\2024\04\22\CH1_20240422110702_253머3356.jpg
+[11:07:03] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:07:03] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#253머3356#N#\2024\04\22\CH1_20240422110702_253머3356.jpg
+[11:07:03] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:07:04] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#253머3356#N#\2024\04\22\CH1_20240422110702_253머3356.jpg
+[11:07:04] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:04] uGlobal.pas: Line: 275, sCarNo1(253머3356),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110702_253머3356.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:04] uGlobal.pas: Line: 275, 10.22.32.101 : 253머3356/ - 
+[11:07:04] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110702_253머3356.jpg
+[11:07:13] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#14저7317#N#\2024\04\22\CH1_20240422110713_14저7317.jpg
+[11:07:13] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:07:13] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#14저7317#N#\2024\04\22\CH1_20240422110713_14저7317.jpg
+[11:07:13] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:07:13] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#14저7317#N#\2024\04\22\CH1_20240422110713_14저7317.jpg
+[11:07:13] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:13] uGlobal.pas: Line: 275, sCarNo1(14저7317),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110713_14저7317.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:13] uGlobal.pas: Line: 275, 10.22.32.100 : 14저7317/ - 
+[11:07:13] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110713_14저7317.jpg
+[11:07:25] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테3506#N#\2024\04\22\CH1_20240422110723_33테3506.jpg
+[11:07:25] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:07:25] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테3506#N#\2024\04\22\CH1_20240422110723_33테3506.jpg
+[11:07:25] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:07:25] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테3506#N#\2024\04\22\CH1_20240422110723_33테3506.jpg
+[11:07:25] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:25] uGlobal.pas: Line: 275, sCarNo1(33테3506),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110723_33테3506.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:25] uGlobal.pas: Line: 275, 10.22.32.101 : 33테3506/ - 
+[11:07:25] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110723_33테3506.jpg
+[11:07:31] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#11서1117#N#\2024\04\22\CH1_20240422110729_11서1117.jpg
+[11:07:31] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:07:31] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#11서1117#N#\2024\04\22\CH1_20240422110729_11서1117.jpg
+[11:07:31] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:07:31] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#11서1117#N#\2024\04\22\CH1_20240422110729_11서1117.jpg
+[11:07:31] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:31] uGlobal.pas: Line: 275, sCarNo1(11서1117),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110729_11서1117.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:31] uGlobal.pas: Line: 275, 10.22.32.101 : 11서1117/ - 
+[11:07:31] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110729_11서1117.jpg
+[11:07:36] uGlobal.pas: Line: 275, 1방문객입차 Recv: CH1#345더7284#N#\2024\04\22\CH1_20240422110736_345더7284.jpg
+[11:07:36] uGlobal.pas: Line: 275, -----(+) 1방문객입차 PACKET처리--------
+[11:07:36] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#345더7284#N#\2024\04\22\CH1_20240422110736_345더7284.jpg
+[11:07:36] uGlobal.pas: Line: 275, -----(-) 1방문객입차 PACKET처리--------
+[11:07:36] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#345더7284#N#\2024\04\22\CH1_20240422110736_345더7284.jpg
+[11:07:36] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:36] uGlobal.pas: Line: 275, sCarNo1(345더7284),sCarNo2(),sFile1(http://10.22.32.100:9080/MSImage/2024/04/22/CH1_20240422110736_345더7284.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:36] uGlobal.pas: Line: 275, 10.22.32.100 : 345더7284/ - 
+[11:07:36] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.100\MSImage\2024\04\22\CH1_20240422110736_345더7284.jpg
+[11:07:56] uGlobal.pas: Line: 275, 1입주민입차 Recv: CH1#33테3561#N#\2024\04\22\CH1_20240422110754_33테3561.jpg
+[11:07:56] uGlobal.pas: Line: 275, -----(+) 1입주민입차 PACKET처리--------
+[11:07:56] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#33테3561#N#\2024\04\22\CH1_20240422110754_33테3561.jpg
+[11:07:56] uGlobal.pas: Line: 275, -----(-) 1입주민입차 PACKET처리--------
+[11:07:56] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#33테3561#N#\2024\04\22\CH1_20240422110754_33테3561.jpg
+[11:07:56] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:56] uGlobal.pas: Line: 275, sCarNo1(33테3561),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110754_33테3561.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:56] uGlobal.pas: Line: 275, 10.22.32.101 : 33테3561/ - 
+[11:07:56] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110754_33테3561.jpg
+[11:07:58] uGlobal.pas: Line: 275, 2입주민입차 Recv: CH1#22러1727#N#\2024\04\22\CH1_20240422110756_22러1727.jpg
+[11:07:58] uGlobal.pas: Line: 275, -----(+) 2입주민입차 PACKET처리--------
+[11:07:58] uGlobal.pas: Line: 275, InQueue.Enqueue : CH1#22러1727#N#\2024\04\22\CH1_20240422110756_22러1727.jpg
+[11:07:58] uGlobal.pas: Line: 275, -----(-) 2입주민입차 PACKET처리--------
+[11:07:58] uGlobal.pas: Line: 275, InQueue.Dequeue : CH1#22러1727#N#\2024\04\22\CH1_20240422110756_22러1727.jpg
+[11:07:58] uGlobal.pas: Line: 275, **step.1) LPR.패킷.파싱하기
+[11:07:58] uGlobal.pas: Line: 275, sCarNo1(22러1727),sCarNo2(),sFile1(http://10.22.32.101:9080/MSImage/2024/04/22/CH1_20240422110756_22러1727.jpg),sFile2(),nRecog1(1),nRecog2(0),sGroup(ETC)
+[11:07:58] uGlobal.pas: Line: 275, 10.22.32.101 : 22러1727/ - 
+[11:07:58] uGlobal.pas: Line: 588, *Save File(1): \\10.22.32.101\MSImage\2024\04\22\CH1_20240422110756_22러1727.jpg
+[11:07:59] uGlobal.pas: Line: 275, 2출차 Socket disconnected
+[11:07:59] uGlobal.pas: Line: 275, 1출차 Socket disconnected
